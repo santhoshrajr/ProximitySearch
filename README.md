@@ -1,5 +1,6 @@
 # ProximitySearch
 Given a sample document (text file), two keywords and a numeric range, return the number of times the keywords exist in the document within the given range, or 0 if your search is not successful.
+
 Algorithm
 
 1. Traverse input text of the file as we find the word match for key1 or key2 add the position of occurence to respective list. Store the position as key and the occurence for key1 or key2 at that position as value in a dictionary.
