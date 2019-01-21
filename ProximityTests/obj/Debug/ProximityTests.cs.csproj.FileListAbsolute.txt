@@ -1,0 +1,17 @@
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\ProximityTests.cs.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\ProximityTests.cs.pdb
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\obj\Debug\ProximityTests.cs.csproj.CoreCompileInputs.cache
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\obj\Debug\ProximityTests.cs.csproj.CopyComplete
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\obj\Debug\ProximityTests.cs.dll
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\obj\Debug\ProximityTests.cs.pdb
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\CodingExercise.exe
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\CodingExercise.pdb
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\bin\Debug\CodingExercise.exe.config
+c:\users\santh\source\repos\CodingExercise\ProximityTests.cs\obj\Debug\ProximityTests.cs.csprojResolveAssemblyReference.cache
